@@ -1,2 +1,4 @@
 # testrepo1
-super-duper-happiness
+Super Duper Happiness
+Testing repository
+This is the second markdown file
